@@ -103,6 +103,20 @@ export default function Content() {
               </a>
             </div>
 
+            {/* About Me */}
+            <div className="bg-white rounded-3xl shadow-md p-6 border border-green-100">
+              <h3 className="text-xl font-bold mb-2">About Me 💻</h3>
+              <p className="text-sm text-gray-600">
+                I'm Mansi Verma, a frontend developer passionate about building
+                clean, interactive user interfaces with React, TypeScript, and
+                Tailwind CSS. I love turning ideas into experiences that feel
+                smooth and purposeful. I’m a straight-talker (don’t worry, I’m
+                not rude — just real 😄) and a fast learner, always chasing
+                growth. When I’m not coding, I’m either watching cricket or
+                catching up on some much-loved sleep 😴.
+              </p>
+            </div>
+
             {/* Tech Stack */}
             <div className="bg-white rounded-3xl shadow-md p-6 border border-yellow-100">
               <h3 className="text-xl font-bold mb-2">Tech Stack 🚀</h3>
