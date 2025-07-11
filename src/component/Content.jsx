@@ -34,7 +34,8 @@ const project = [
     description:
       "Coming soon: CodeNest — a playful learning hub with flashcards, topic decks, a code playground, and progress tracking. Designed to make coding feel like a game, not a grind.",
     lang: "JavaScript",
-    type: "In Progress 🚧",
+    link: "https://github.com/Mansiverma30/codeNest",
+    demo: "https://thecodenest.netlify.app/",
   },
 
   {
